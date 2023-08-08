@@ -1,1 +1,2 @@
 this is submitted by kritik
+I am learning git commands
